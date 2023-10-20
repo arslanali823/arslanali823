@@ -1,6 +1,6 @@
 # Arslan Ali[arslanali823]
 
-[![Linkedin: Arslan-Ali](https://img.shields.io/badge/Subashini-Thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/subashini-thanikaikumaran/)](https://www.linkedin.com/in/subashini-thanikaikumaran/)
+[![Linkedin: Arslan-Ali](https://img.shields.io/badge/Subashini-Thanikaikumaran-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslan-ali-1973406a/)](https://www.linkedin.com/in/arslan-ali-1973406a/)
 
 ## About me 
 I'm a full stack web developer|PHP web developer. I like to work with PHP, React, NodeJS and Vue.js.
