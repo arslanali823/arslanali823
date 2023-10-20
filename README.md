@@ -71,34 +71,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
 ![GoDaddy](https://img.shields.io/static/v1?style=for-the-badge&message=GoDaddy&color=222222&logo=GoDaddy&logoColor=1BDBDB&label=)
 
-### My Github Stats
-
-<p align = "left">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=subathanikaikumaran&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact"> -->
-
-
-<!--<a href="https://github.com/subathanikaikumaran">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=subathanikaikumaran&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" width="51%" />
-</a> -->
-<a href="https://github.com/subathanikaikumaran">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=subathanikaikumaran&theme=tokyonight&layout=compact&hide=tcl,hack&hide_border=true" width="43%" />
-</a>
-</p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subathanikaikumaran" alt="Views" /> </p>
-
-<!-- ### GITHUB TROPHIES
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=subathanikaikumaran)](https://github.com/ryo-ma/github-profile-trophy)<br>
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=subathanikaikumaran)   -->
-
-
-<!--
-**arslanali/arslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<br>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -109,4 +82,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
