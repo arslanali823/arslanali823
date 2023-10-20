@@ -34,6 +34,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Vuetify](https://img.shields.io/static/v1?style=for-the-badge&message=Vuetify&color=1867C0&logo=Vuetify&logoColor=FFFFFF&label=)
 ![Bulma](https://img.shields.io/static/v1?style=for-the-badge&message=Bulma&color=222222&logo=Bulma&logoColor=00D1B2&label=)
 ![Nuxt.js](https://img.shields.io/static/v1?style=for-the-badge&message=Nuxt.js&color=DCEBDA&logo=Nuxt.js&logoColor=00BF8A&label=)
+![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
 
 ## Databases I have worked with
@@ -45,7 +46,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
 <br>
 
-## Package Managers and Code Versioning Tools
+## Package Managers & Code Versioning Tools
 
 ![Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=)
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
@@ -54,16 +55,21 @@ Throughout my career, I’ve worked in a variety of industries for international
 
 ## Tools I have worked with
 
+![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
+![Asana](https://img.shields.io/static/v1?style=for-the-badge&message=Asana&color=F06A6A&logo=Asana&logoColor=FFFFFF&label=)
+![Trello](https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=)
+![Postman](https://img.shields.io/badge/postman-F76935?style=for-the-badge&logoColor=white&logo=postman)
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=8C52FC&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
-![Postman](https://img.shields.io/badge/postman-F76935?style=for-the-badge&logoColor=white&logo=postman)
-![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
 
-## Operating Systems I have worked with
+## Servers & Operating Systems I have worked with
 
 ![Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Linux&color=222222&logo=Linux&logoColor=FCC624&label=)
 ![Windows](https://img.shields.io/static/v1?style=for-the-badge&message=Windows&color=0078D4&logo=Windows&logoColor=FFFFFF&label=)
-
+![Docker](https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=)
+![Amazon AWS](https://img.shields.io/static/v1?style=for-the-badge&message=Amazon+AWS&color=232F3E&logo=Amazon+AWS&logoColor=FFFFFF&label=)
+![DigitalOcean](https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=)
+![GoDaddy](https://img.shields.io/static/v1?style=for-the-badge&message=GoDaddy&color=222222&logo=GoDaddy&logoColor=1BDBDB&label=)
 
 ### My Github Stats
 
@@ -91,7 +97,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 
 
 <!--
-**subathanikaikumaran/subathanikaikumaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**arslanali/arslanali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
