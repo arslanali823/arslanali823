@@ -11,7 +11,7 @@ PHP | Golang | Laravel | CodeIgniter | Symfony | JavaScript | Vue.js | Nuxt.js |
 
 Throughout my career, I’ve worked in a variety of industries for international companies and startups. Learning and taking opportunities that push me beyond my comfort zone are two of my favorite things to do. As a quick learner. Being a quick learner, I love to take on new challenges.
 
-## Backend Technologies and Frameworks I have worked with
+## Backend Technologies and Frameworks
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/static/v1?style=for-the-badge&message=Laravel&color=FF2D20&logo=Laravel&logoColor=FFFFFF&label=)
@@ -22,7 +22,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 
 
-## Frontend Libraries, Technologies and Frameworks I have worked with
+## Frontend Libraries, Technologies and Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -37,7 +37,8 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Axios](https://img.shields.io/static/v1?style=for-the-badge&message=Axios&color=5A29E4&logo=Axios&logoColor=FFFFFF&label=)
 ![Google Analytics](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Analytics&color=E37400&logo=Google+Analytics&logoColor=FFFFFF&label=)
 
-## Databases I have worked with
+
+## Databases
 
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
 ![MariaDB](https://img.shields.io/static/v1?style=for-the-badge&message=MariaDB&color=003545&logo=MariaDB&logoColor=FFFFFF&label=)
@@ -46,14 +47,16 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
 <br>
 
-## Package Managers & Code Versioning Tools
+
+## Code Versioning and Package Management Tools
 
 ![Composer](https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=)
 ![npm](https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=)
 ![GitHub](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=)
 ![GitHub Actions](https://img.shields.io/static/v1?style=for-the-badge&message=GitHub+Actions&color=2088FF&logo=GitHub+Actions&logoColor=FFFFFF&label=)
 
-## Tools I have worked with
+
+## IDE and Project Management Tools
 
 ![Jira](https://img.shields.io/static/v1?style=for-the-badge&message=Jira&color=0052CC&logo=Jira&logoColor=FFFFFF&label=)
 ![Asana](https://img.shields.io/static/v1?style=for-the-badge&message=Asana&color=F06A6A&logo=Asana&logoColor=FFFFFF&label=)
@@ -61,6 +64,7 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Postman](https://img.shields.io/badge/postman-F76935?style=for-the-badge&logoColor=white&logo=postman)
 ![PhpStorm](https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=8C52FC&logo=PhpStorm&logoColor=FFFFFF&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+
 
 ## Servers & Operating Systems I have worked with
 
