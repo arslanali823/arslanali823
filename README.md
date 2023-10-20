@@ -1,6 +1,5 @@
 # Arslan Ali[arslanali823]
-
-![LinkedIn: Arslan-Ali](https://img.shields.io/static/v1?style=for-the-badge&message=Ali&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=Arslan&link=https://www.linkedin.com/in/arslan-ali-1973406a/)
+[![Linkedin: Arslan-Ali](https://img.shields.io/static/v1?style=for-the-badge&message=Ali&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=Arslan&link=https://www.linkedin.com/in/arslan-ali-1973406a/)](https://www.linkedin.com/in/arslan-ali-1973406a/)
 
 ## About me
 Hey My name is Arslan Ali working as Fullstack Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
