@@ -1,10 +1,16 @@
 # Arslan Ali[arslanali823]
 
-[![Linkedin: Arslan-Ali](https://img.shields.io/badge/Arslan-Ali-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslan-ali-1973406a/)](https://www.linkedin.com/in/arslan-ali-1973406a/)
+[![Linkedin: Arslan-Ali](https://img.shields.io/badge/ARSLAN-ALI-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arslan-ali-1973406a/)](https://www.linkedin.com/in/arslan-ali-1973406a/)
 
-## About me 
-I'm a full stack web developer|PHP web developer. I like to work with PHP, React, NodeJS and Vue.js.
+## About me
+Hey My name is Arslan Ali working as Fullstack Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
 
+Additionally, I lead a team of five developers, where I provide guidance and support in implementing e-commerce features and third-party integrations.
+
+My tech stack comprises -
+PHP | Laravel | CodeIgniter | Symfony | JavaScript | Vue.js | Nuxt.js | HTML | CSS | Bootstrap | Tailwind CSS | Foundation CSS | jQuery | MySQL | MongoDB | Firebase | Firebase Cloud Functions | Agile/Scrum | OOP | SOLID | DRY | Design Patterns | Restful APIs | JSON | XML | PHPUnit | NPM | Composer | Docker | Gitlab | GitHub | SVN | Postman | NoSQL | Knowledge of Elastic Search.
+
+Throughout my career, I’ve worked in a variety of industries for international companies and startups. Learning and taking opportunities that push me beyond my comfort zone are two of my favorite things to do. As a quick learner. Being a quick learner, I love to take on new challenges.
 ## Tools and Languages I have worked with
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -21,9 +27,9 @@ I'm a full stack web developer|PHP web developer. I like to work with PHP, React
 ![Postman](https://img.shields.io/badge/postman-FF8300?style=for-the-badge&logoColor=white&logo=postman)
 ![Github](https://img.shields.io/badge/github-8B001B?style=for-the-badge&logoColor=white&logo=github)
 ![Docker](https://img.shields.io/badge/docker-blue?style=for-the-badge&logoColor=white&logo=docker)
+![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
 <!-- ![Material-UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 <!-- ![React-Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) -->
-<!-- ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase) -->
 <!-- ![MongoDb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) -->
 <br>
 
