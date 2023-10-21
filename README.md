@@ -27,6 +27,8 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![Go](https://img.shields.io/static/v1?style=for-the-badge&message=Go&color=00ADD8&logo=Go&logoColor=FFFFFF&label=)
 ![Elasticsearch](https://img.shields.io/static/v1?style=for-the-badge&message=Elasticsearch&color=005571&logo=Elasticsearch&logoColor=FFFFFF&label=)
 ![Livewire](https://img.shields.io/static/v1?style=for-the-badge&message=Livewire&color=4E56A6&logo=Livewire&logoColor=FFFFFF&label=)
+![JSON](https://img.shields.io/static/v1?style=for-the-badge&message=JSON&color=48876A&logo=JSON&logoColor=F3A558&label=)
+![JSON Web Tokens](https://img.shields.io/static/v1?style=for-the-badge&message=JSON+Web+Tokens&color=002240&logo=JSON+Web+Tokens&logoColor=FFFFFF&label=)
 
 
 ## Frontend Libraries, Technologies and Frameworks
@@ -57,7 +59,9 @@ Throughout my career, I’ve worked in a variety of industries for international
 ![PostgreSQL](https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=)
 ![Oracle](https://img.shields.io/static/v1?style=for-the-badge&message=Oracle&color=F80000&logo=Oracle&logoColor=FFFFFF&label=)
 ![Firebase](https://img.shields.io/badge/firebase-FFBA01?style=for-the-badge&logoColor=white&logo=firebase)
-<br>
+![MongoDB](https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=)
+![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=880000&logo=Mongoose&logoColor=FFFFFF&label=)
+![Mongoose](https://img.shields.io/static/v1?style=for-the-badge&message=Mongoose&color=F04D35&logo=Mongoose&logoColor=FFFFFF&label=)
 
 
 ## Code Versioning and Package Management Tools
@@ -98,7 +102,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me:
+- 📫 How to reach me: 
   [![Gmail](https://img.shields.io/static/v1?style=for-the-badge&message=Gmail&color=EA4335&logo=Gmail&logoColor=FFFFFF&label=&link=https://mail.google.com/mail/?to=arslanali823@gmail.com#compose)](https://mail.google.com/mail/?to=arslanali823@gmail.com#compose)
   [![Linkedin: Arslan-Ali](https://img.shields.io/static/v1?style=for-the-badge&message=Ali&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=Arslan&link=https://www.linkedin.com/in/arslan-ali-1973406a/)](https://www.linkedin.com/in/arslan-ali-1973406a/)
   [![WhatsApp](https://img.shields.io/static/v1?style=for-the-badge&message=WhatsApp&color=555555&logo=WhatsApp&logoColor=29AD17&label=&link=https://wa.me/03130090946)](https://wa.me/03130090946)
