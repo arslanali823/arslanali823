@@ -4,7 +4,7 @@
 
 </div>
 
-[logo-url]: https://ov12-engine.flamingtext.com/netfu/tmp28007/coollogo_com-227496183.png
+[logo-url]: https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-227846053.png
 
 ## About me
 Hey My name is Arslan Ali working as Fullstack Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
