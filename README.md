@@ -7,12 +7,12 @@
 [logo-url]: https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-227846053.png
 
 ## About me
-Hey My name is Arslan Ali working as Fullstack Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
+Hey My name is Arslan Ali working as Fullstack Laravel Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
 
 Additionally, I lead a team of five developers, where I provide guidance and support in implementing e-commerce features and third-party integrations.
 
 My tech stack comprises -
-PHP | Golang | Laravel | CodeIgniter | Symfony | JavaScript | Vue.js | Nuxt.js | HTML | CSS | Bootstrap | Tailwind CSS | Foundation CSS | jQuery | MySQL | MongoDB | Firebase | Firebase Cloud Functions | Agile/Scrum | OOP | SOLID | DRY | Design Patterns | Restful APIs | JSON | XML | PHPUnit | NPM | Composer | Docker | Gitlab | GitHub | SVN | Postman | NoSQL | Knowledge of Elastic Search.
+PHP | Golang | Laravel | CodeIgniter | Symfony | JavaScript | Vue.js | Nuxt.js | HTML | CSS | Bootstrap | Tailwind CSS | Foundation CSS | jQuery | MySQL | MongoDB | Firebase | Firebase Cloud Functions | Agile/Scrum | OOP | SOLID | DRY | Design Patterns | Software Design | Software Architecture | Restful APIs | JSON | XML | PHPUnit | NPM | Composer | Docker | Gitlab | GitHub | SVN | Postman | NoSQL | Socket.io | Knowledge of Elastic Search.
 
 Throughout my career, I’ve worked in a variety of industries for international companies and startups. Learning and taking opportunities that push me beyond my comfort zone are two of my favorite things to do. As a quick learner. Being a quick learner, I love to take on new challenges.
 
