@@ -1,13 +1,11 @@
-<div align="center">
+Hi 👋 My name is Arslan Ali
+==============================
 
-![][logo-url]
-
-</div>
-
-[logo-url]: https://ov12-engine.flamingtext.com/netfu/tmp28000/coollogo_com-227846053.png
+Senior Fullstack Developer
+---------------------------------
 
 ## About me
-Hey My name is Arslan Ali working as Fullstack Developer. I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
+I have been working in software development for over 8 years with a focus on web development using PHP, Laravel, Symfony, Codeigniter, MySQL, and Vue.js.
 
 Additionally, I lead a team of five developers, where I provide guidance and support in implementing e-commerce features and third-party integrations.
 
